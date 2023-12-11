@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+.gitignore
+
+.cmake-build-*/
+
+.idea/
+
 # Compiled Object files
 *.slo
 *.lo
