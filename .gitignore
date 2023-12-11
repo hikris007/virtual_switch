@@ -3,7 +3,7 @@
 
 .gitignore
 
-.cmake-build-*/
+cmake-build-*/
 
 .idea/
 
